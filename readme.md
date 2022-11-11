@@ -9,4 +9,4 @@
 
 
 ### CONTACT
-<a href="mailto:0803whdgus@naver.com" target="_blank"><img src="https://img.shields.io/badge/NAVER-00000?style=flat&logo=naver&logoColor=FFFFFF&"/></a>
+<a href="mailto:0803whdgus@naver.com" target="_blank"><img src="https://img.shields.io/badge/0803whdgus@naver.com-00000?style=flat&logo=naver&logoColor=FFFFFF&"/></a>
