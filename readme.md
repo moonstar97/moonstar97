@@ -5,7 +5,9 @@
 ### ⚡ SKILLS
 Platforms & Languages
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=FFFFFF&"/>  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF&"/> 
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=FFFFFF&"/>
+
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/Scikit%20Learn-7931E?style=flat&logo=scikitlearn&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=FFFFFF&"/>  
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=FFFFFF&"/> 
 
