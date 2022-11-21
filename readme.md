@@ -18,3 +18,7 @@ Platforms & Languages
 
 ### CONTACT
 <a href="mailto:0803whdgus@naver.com" target="_blank"><img src="https://img.shields.io/badge/0803whdgus@naver.com-00000?style=flat&logo=naver&logoColor=FFFFFF&"/></a>
+
+
+### BLOG
+<a href="https://velog.io/@moonstar" target="_blank"><img src="https://img.shields.io/badge/velog-00000?style=flat&logo=velog&logoColor=FFFFFF&"/></a>
