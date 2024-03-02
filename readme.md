@@ -1,5 +1,5 @@
 페이지 작업중..🎈
-<a href="https://velog.io/@moonstar" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=Blog&logoColor=FFFFFF&"/></a>
+<a href="https://velog.io/@moonstar" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=FFFFFF&"/></a> <a href="mailto:0803whdgus@naver.com" target="_blank"><img src="https://img.shields.io/badge/0803whdgus@naver.com-00000?style=flat&logo=naver&logoColor=FFFFFF&"/></a>
 
 
 ### ⚡ SKILLS
@@ -15,10 +15,4 @@ Languages & Platforms
 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/>
 
-
-### CONTACT
-<a href="mailto:0803whdgus@naver.com" target="_blank"><img src="https://img.shields.io/badge/0803whdgus@naver.com-00000?style=flat&logo=naver&logoColor=FFFFFF&"/></a>
-
-
-### BLOG
 
