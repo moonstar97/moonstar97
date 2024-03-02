@@ -1,5 +1,5 @@
 페이지 작업중..🎈
-
+<a href="https://velog.io/@moonstar" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=Blog&logoColor=FFFFFF&"/></a>
 
 
 ### ⚡ SKILLS
@@ -21,4 +21,4 @@ Languages & Platforms
 
 
 ### BLOG
-<a href="https://velog.io/@moonstar" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=FFFFFF&"/></a>
+
