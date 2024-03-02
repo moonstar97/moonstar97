@@ -1,6 +1,6 @@
 페이지 작업중..🎈
 
-<a href="https://velog.io/@moonstar" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=FFFFFF&"/></a> <a href="mailto:0803whdgus@naver.com" target="_blank"><img src="https://img.shields.io/badge/0803whdgus@naver.com-00000?style=flat&logo=naver&logoColor=FFFFFF&"/></a>
+<a href="https://velog.io/@moonstar" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=Blogger&logoColor=FFFFFF&"/></a> <a href="mailto:0803whdgus@naver.com" target="_blank"><img src="https://img.shields.io/badge/0803whdgus@naver.com-00000?style=flat&logo=naver&logoColor=FFFFFF&"/></a>
 
 
 ### ⚡ SKILLS
