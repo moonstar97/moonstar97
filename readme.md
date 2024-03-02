@@ -4,6 +4,7 @@
 
 ### ⚡ SKILLS
 Languages & Platforms
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/Trino-DD00A1?style=flat&logo=Trino&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF&"/> 
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=FFFFFF&"/>
 
