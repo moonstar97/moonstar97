@@ -20,6 +20,8 @@ At present, I've been interested in scheduling workflow with Apache Airflow.
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=FFFFFF&"/>
   <img src="https://img.shields.io/badge/Trino(Presto)-DD00A1?style=flat&logo=Trino&logoColor=FFFFFF&"/>
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/Redash-f26d5b?style=flat&logo=redash&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=FFFFFF&"/>
 </p>
 
 #### Framework & Library
