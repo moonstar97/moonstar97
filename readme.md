@@ -1,5 +1,3 @@
-페이지 작업중..🎈
-
 ### 📌Contact Me
 <p>
   <a href="https://velog.io/@moonstar" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=Blogger&logoColor=FFFFFF&"/></a>
