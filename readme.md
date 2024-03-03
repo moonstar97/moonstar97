@@ -1,27 +1,53 @@
 페이지 작업중..🎈
 
 ### 📌Contact Me
-<a href="https://velog.io/@moonstar" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=Blogger&logoColor=FFFFFF&"/></a> <a href="mailto:0803whdgus@naver.com" target="_blank"><img src="https://img.shields.io/badge/0803whdgus@naver.com-00000?style=flat&logo=naver&logoColor=FFFFFF&"/></a>
-
+<p>
+  <a href="https://velog.io/@moonstar" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=Blogger&logoColor=FFFFFF&"/></a>
+  <a href="mailto:0803whdgus@naver.com" target="_blank"><img src="https://img.shields.io/badge/0803whdgus@naver.com-00000?style=flat&logo=naver&logoColor=FFFFFF&"/></a>
+</p>
+ 
 </br>
 
-👋 Hi there! I'm data analyst skilled in SQL, Python, BI tool(Redash, Tableau).📊</br>
-I have experience writing a book on data analysis.[(데이터 분석, 한 권에 입문하기)](https://ridibooks.com/books/805041659)</br>
-At present, I've been interested in scheduling workflow with Apache Airflow.
+<p>
+  👋&nbsp;Hi there! I'm data analyst skilled in SQL, Python, BI tool(Redash, Tableau).📊</br>
+  I have experience writing a book on data analysis.[(데이터 분석, 한 권에 입문하기)](https://ridibooks.com/books/805041659)</br>
+  At present, I've been interested in scheduling workflow with Apache Airflow.
+</p>
+
 
 </br>
 
 ### ⚡ SKILLS
-Languages & Platforms
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/Trino-DD00A1?style=flat&logo=Trino&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF&"/> 
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=FFFFFF&"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=FFFFFF&"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=FFFFFF&"/>  <img src="https://img.shields.io/badge/Scikit%20Learn-7931E?style=flat&logo=scikitlearn&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=FFFFFF&"/>  
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=FFFFFF&"/> 
-
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF&"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/>
-
+#### Languages & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/Trino-DD00A1?style=flat&logo=Trino&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=FFFFFF&"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=FFFFFF&"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/Scikit%20Learn-7931E?style=flat&logo=scikitlearn&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=FFFFFF&"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/>
+</p>
 
