@@ -2,11 +2,12 @@
 
 ### 📌Contact Me
 <a href="https://velog.io/@moonstar" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=Blogger&logoColor=FFFFFF&"/></a> <a href="mailto:0803whdgus@naver.com" target="_blank"><img src="https://img.shields.io/badge/0803whdgus@naver.com-00000?style=flat&logo=naver&logoColor=FFFFFF&"/></a>
+---
 
-👋 Hi there! I'm data analyst skilled in SQL, Python, BI tool(Redash, Tableau).📊
+👋 Hi there! I'm data analyst skilled in SQL, Python, BI tool(Redash, Tableau).📊</br>
 At present, I've been interested in scheduling workflow with Apache Airflow.
 
-
+</br>
 
 ### ⚡ SKILLS
 Languages & Platforms
