@@ -14,23 +14,17 @@ At present, I've been interested in scheduling workflow with Apache Airflow.
 
 </br>
 
-### ⚡ SKILLS
+### 🛠 SKILLS
 #### Languages & Platforms
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FFFFFF&"/>
-  <img src="https://img.shields.io/badge/Trino-DD00A1?style=flat&logo=Trino&logoColor=FFFFFF&"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF&"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF&"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=FFFFFF&"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=FFFFFF&"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=FFFFFF&"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=FFFFFF&"/>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=FFFFFF&"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF&"/></br>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/Trino(Presto)-DD00A1?style=flat&logo=Trino&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=FFFFFF&"/>
 </p>
+
+#### Framework & Library
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=FFFFFF&"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=FFFFFF&"/>
@@ -41,10 +35,11 @@ At present, I've been interested in scheduling workflow with Apache Airflow.
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=FFFFFF&"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=FFFFFF&"/>
 </p>
+
+#### Tools
 <p>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=FFFFFF&"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=FFFFFF&"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF&"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/>
 </p>
 
