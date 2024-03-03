@@ -13,18 +13,26 @@ At present, I've been interested in scheduling workflow with Apache Airflow.
 </br>
 
 ### 🛠 SKILLS
-#### Languages & Platforms
+#### Languages & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FFFFFF&"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF&"/></br>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF&"/></br>  
   <img src="https://img.shields.io/badge/Trino(Presto)-DD00A1?style=flat&logo=Trino&logoColor=FFFFFF&"/>
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=FFFFFF&"/>  
+</p>
+
+#### BI tools
+<p>
   <img src="https://img.shields.io/badge/Redash-f26d5b?style=flat&logo=redash&logoColor=FFFFFF&"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=FFFFFF&"/>
 </p>
 
-#### Framework & Library
+#### ETL & Workflow Management
+<p>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=FFFFFF&"/>
+</p>
+
+#### Library
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=FFFFFF&"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=FFFFFF&"/>
@@ -38,7 +46,7 @@ At present, I've been interested in scheduling workflow with Apache Airflow.
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=FFFFFF&"/>
 </p>
 
-#### Tools
+#### IDEs & Other tools
 <p>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=FFFFFF&"/>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=FFFFFF&"/>
