@@ -26,6 +26,8 @@ At present, I've been interested in scheduling workflow with Apache Airflow.
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=FFFFFF&"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/Matplotlib-3776ab?style=flat&logo=matplotlib&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/Seaborn-82bfb4?style=flat&logo=seaborn&logoColor=FFFFFF&"/>
   <img src="https://img.shields.io/badge/Scikit%20Learn-7931E?style=flat&logo=scikitlearn&logoColor=FFFFFF&"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=FFFFFF&"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=FFFFFF&"/>
