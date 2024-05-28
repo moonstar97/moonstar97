@@ -32,7 +32,7 @@ At present, I've been interested in scheduling workflow with Apache Airflow.
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=FFFFFF&"/>
 </p>
 
-#### Library
+#### Python Library
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=FFFFFF&"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=FFFFFF&"/>
@@ -51,5 +51,8 @@ At present, I've been interested in scheduling workflow with Apache Airflow.
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=FFFFFF&"/>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=FFFFFF&"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=FFFFFF&"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=FFFFFF&"/>
 </p>
 
